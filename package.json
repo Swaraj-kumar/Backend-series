@@ -1,0 +1,16 @@
+{
+  "name": "backendfolderstructure",
+  "version": "1.0.0",
+  "description": "Backend Folder Structure from Chai and code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "and",
+    "Backend"
+  ],
+  "author": "Swaraj Kumar",
+  "license": "ISC"
+}
